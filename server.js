@@ -52,7 +52,7 @@ app.get("/jghrisapp", function(req,res){
 })
 app.get("/jgrealisasiapp", function(req,res){
     res.send({
-        APIROUTE:`https://8e9a0791e08d.ngrok.io`
+        APIROUTE:`https://8e9a0791e08e.ngrok.io`
     });
 })
 app.listen(PORT, () => {
